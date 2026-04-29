@@ -1,0 +1,1 @@
+# In this application CRUD operations are created using SQLModel and FastAPI
