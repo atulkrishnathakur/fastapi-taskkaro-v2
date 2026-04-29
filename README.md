@@ -1,1 +1,2 @@
-# In this application CRUD operations are created using SQLModel and FastAPI
+# About Project
+1. In this application CRUD operations created using SQLModel, Pydantic and FastAPI
